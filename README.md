@@ -1,0 +1,2 @@
+# Wine-Group-Kernel-PCA-Dimensionality-Reduction-ML
+kernel principal component analysis (kernel PCA) is an extension of principal component analysis (PCA) using techniques of kernel methods. Using a kernel, the originally linear operations of PCA are performed in a reproducing kernel Hilbert space. Same wine group problem dataset is used using kernel pca this time and the accuracy found is satisfactory. 
